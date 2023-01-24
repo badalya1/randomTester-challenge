@@ -1,0 +1,16 @@
+{
+  "name": "random-tester",
+  "version": "1.0.0",
+  "license": "NONE",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc-watch"
+  },
+  "dependencies": {
+    "typescript": "^4.8.3"
+  },
+  "devDependencies": {
+    "tsc-watch": "^5.0.3"
+  }
+}
